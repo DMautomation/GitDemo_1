@@ -13,9 +13,19 @@ public class Assignment_2 {
 		
 		System.out.println("Employee Details: ");
 		
-		System.out.println("Employee Address");
+		System.out.println("Employee Address:");
 		
-		System.out.println("Employee Joining Date");
+		System.out.println("Employee Joining Date:");
+		
+		//abc
+		//def
+		//ghi
+		
+		System.out.println("Employee Department:");
+		
+		System.out.println("Employee Skills:");
+		
+		System.out.println("Employee Designation");
 	}
 
 }
